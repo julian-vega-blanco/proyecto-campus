@@ -1,0 +1,16 @@
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+.carousel {
+    width: 100%;
+    max-height: 750px;
+    overflow: hidden;
+  } 
+
+.rounded-pill{
+    width: 100%;
+    max-height: 300px;
+    overflow: hidden;
+}
